@@ -65,7 +65,7 @@ a {
 
 .header_btn {
     background: #EE5514;
-    margin-left: 200px;
+    margin-left: 220px;
     color: #FFFFFF;
     padding: 15px 30px;
     border-radius: 5px;
@@ -75,4 +75,5 @@ a {
     border: none;
     max-width: 140px;
     height: 60px;
+    gap: 10px;
 }
