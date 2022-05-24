@@ -51,7 +51,8 @@ a {
     line-height: 160%;
     text-decoration: none;
     margin: 0 40px;
-    color: black;
+    color: #1A0A03;
+    opacity: 0.7;
 }
 
 .nav_links:hover {
