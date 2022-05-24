@@ -36,6 +36,7 @@ a {
     background: linear-gradient(90deg, #EE5514 1.14%, rgba(238, 85, 20, 0) 133.88%);
     opacity: 10%;
     height: 650px;
+    color: #EE5514;
 }
 
 .nav_items {
