@@ -256,14 +256,15 @@ a {
     font-weight: 600;
     font-size: 20px;
     line-height: 150%;
-    font-family: 'Source Serif Pro' sans-serif;
+    font-family: 'Source Serif Pro', sans-serif;
     text-transform: uppercase;
     color: #EE5514;
+    letter-spacing: 0.05em;
 }
 
 .video_text {
     margin-top: 10px;
-    font-family: 'Source Serif Pro' sans-serif;
+    font-family: 'Source Serif Pro', sans-serif;
     font-weight: 600;
     font-size: 44px;
     line-height: 130%;
@@ -276,7 +277,7 @@ a {
 }
 
 .video_text_sup {
-    font-family: 'Poppins' sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 160%;
